@@ -1,0 +1,10 @@
+-Xdoclint:none '-quiet'
+-charSet 'UTF-8'
+-classpath 'C:\\Users\\Артемий\\pr2\\untitled2\\build\\classes\\java\\main;C:\\Users\\Артемий\\pr2\\untitled2\\build\\resources\\main'
+-d 'C:\\Users\\Артемий\\pr2\\untitled2\\build\\docs\\javadoc'
+-doctitle 'untitled2 1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'untitled2 1.0-SNAPSHOT API'
+'C:\\Users\\Артемий\\pr2\\untitled2\\src\\main\\java\\GGG.java'
